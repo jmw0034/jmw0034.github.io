@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<title>reddit.com</title>
 <html lang="en-US"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <script>
